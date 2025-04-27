@@ -14,3 +14,6 @@ Organized way to store and manage data.
 - [x] Stack
 - [x] Trie
 - [ ] Sandwhich
+
+## Instrutions
+clone/fork repo and begin to practice daily until complete
