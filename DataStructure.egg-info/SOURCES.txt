@@ -1,9 +1,0 @@
-LICENSE
-README.md
-pyproject.toml
-setup.py
-DataStructure.egg-info/PKG-INFO
-DataStructure.egg-info/SOURCES.txt
-DataStructure.egg-info/dependency_links.txt
-DataStructure.egg-info/requires.txt
-DataStructure.egg-info/top_level.txt
