@@ -16,4 +16,4 @@ Organized way to store and manage data.
 - [ ] Sandwhich
 
 ## Instrutions
-clone/fork repo and begin to practice daily until complete
+clone/fork [repo](https://github.com/coderzparadise/DataStructure.git) and begin to practice daily until complete
