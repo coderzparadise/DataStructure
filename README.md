@@ -13,7 +13,6 @@ Organized way to store and manage data.
 - [x] Set
 - [x] Stack
 - [x] Trie
-- [ ] Sandwhich
 
 ## Instrutions
 clone/fork [repo](https://github.com/coderzparadise/DataStructure.git) and begin to practice daily until all questions are complete
