@@ -17,3 +17,4 @@ Organized way to store and manage data.
 ## Instructions
 1. clone/fork [repo](https://github.com/coderzparadise/DataStructure.git) to start now;
 2. practice daily until all questions are complete
+
