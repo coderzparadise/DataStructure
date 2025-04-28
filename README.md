@@ -14,5 +14,5 @@ Organized way to store and manage data.
 - [x] Stack
 - [x] Trie
 
-## Instrutions
+## Instructions
 clone/fork [repo](https://github.com/coderzparadise/DataStructure.git) to start now; practice daily until all questions are complete
