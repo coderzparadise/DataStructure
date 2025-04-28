@@ -44,4 +44,4 @@ edge_list_to_adj_list() - Converts the edge list to an adjacency list.
 
 edge_list_to_adj_matrix() - Converts the edge list to an adjacency matrix.
 
-kruskal() - Using custom disjoint forrest set and edge list, able to create weighted graph and find min-span tree, lowest weight edges covering graph.
+*kruskal() - Using custom disjoint forrest set and edge list, able to create weighted graph and find min-span tree, lowest weight edges covering graph.
