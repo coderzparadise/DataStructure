@@ -1,4 +1,4 @@
-# Instrutions 🇺🇸
+# Instructions 🇺🇸
 1. clone/fork [repo](https://github.com/coderzparadise/DataStructure.git) to start
 2. begin to practice daily until all questions are complete
 
