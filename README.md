@@ -19,7 +19,6 @@ Data Structures are an organized way to store and manage data.
 
 ---
 ---
-
 ## Como empezar (instrucciones en espanol) 🇲🇽 🇪🇸
 
 1. clona/fork de [repo](https://github.com/coderzparadise/DataStructure.git) para empezar
