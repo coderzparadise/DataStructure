@@ -1,5 +1,5 @@
 # Instrutions 🇺🇸
-1. clone/fork [repo](https://github.com/coderzparadise/DataStructure.git)
+1. clone/fork [repo](https://github.com/coderzparadise/DataStructure.git) to start
 2. begin to practice daily until all questions are complete
 
 ### Data Structure Types
@@ -22,8 +22,8 @@ Data Structures are an organized way to store and manage data.
 
 # Instrucciones en espanol 🇲🇽 🇪🇸
 
-1. clona/fork de [repo](https://github.com/coderzparadise/DataStructure.git)
-2. comienza a practicar cada dia hasta que todas las preguntas estan completas.
+1. clona/fork de [repo](https://github.com/coderzparadise/DataStructure.git) para empezar
+2. comienza a practicar cada dia hasta que todas las preguntas estan completas
 
 ### Tipos de Estructuras de Datos
 Las estructuras de datos son una forma de organizar datos.
@@ -43,7 +43,7 @@ Las estructuras de datos son una forma de organizar datos.
 ---
 
 # Instruções en portugues 🇧🇷 🇵🇹
-1. clone/fork de [repo](https://github.com/coderzparadise/DataStructure.git)
+1. clone/fork de [repo](https://github.com/coderzparadise/DataStructure.git) para começar
 2. comece a praticar diariamente até que todas as perguntas estejam completas
 
 ### Tipos de Estruturas de Dados
