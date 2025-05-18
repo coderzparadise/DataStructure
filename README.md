@@ -1,4 +1,4 @@
-## How to get Started (Instructions) 🇺🇸
+## How to get Started (instructions) 🇺🇸
 1. clone/fork [repo](https://github.com/coderzparadise/DataStructure.git) to start
 2. begin to practice daily until all questions are complete
 
@@ -20,7 +20,7 @@ Data Structures are an organized way to store and manage data.
 ---
 ---
 
-## Como empezar (Instrucciones en espanol) 🇲🇽 🇪🇸
+## Como empezar (instrucciones en espanol) 🇲🇽 🇪🇸
 
 1. clona/fork de [repo](https://github.com/coderzparadise/DataStructure.git) para empezar
 2. comienza a practicar cada dia hasta que todas las preguntas estan completas
@@ -42,7 +42,7 @@ Las estructuras de datos son una forma de organizar datos.
 ---
 ---
 
-## Como começar (Instruções en portugues) 🇧🇷 🇵🇹
+## Como começar (instruções en portugues) 🇧🇷 🇵🇹
 1. clone/fork de [repo](https://github.com/coderzparadise/DataStructure.git) para começar
 2. comece a praticar diariamente até que todas as perguntas estejam completas
 
