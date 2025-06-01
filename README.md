@@ -42,6 +42,11 @@ Las estructuras de datos son una forma de organizar datos.
     [x] Set (Conjunto)
     [x] Stack (Pila)
     [x] Trie (Árbol de Prefijos)
+
+#### Repositório 
+- 1. [Portal](https://github.com/coderzparadise)
+- 2. [DataStructure](https://github.com/coderzparadise/DataStructure)
+- 3. [Algorithm](https://github.com/coderzparadise/Algorithm)
 ---
 ---
 
@@ -63,3 +68,7 @@ Estruturas de dados são uma forma organizada de armazenar e gerenciar dados.
     [x] Set (Conjunto)
     [x] Stack (Pilha)
     [x] Trie (Árvore de Prefixos)
+#### Repositorio 
+- 1. [Pagina principa](https://github.com/coderzparadise)
+- 2. [Estructura Datos](https://github.com/coderzparadise/DataStructure)
+- 3. [Algoritmo](https://github.com/coderzparadise/Algorithm)
