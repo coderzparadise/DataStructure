@@ -45,7 +45,7 @@ Las estructuras de datos son una forma de organizar datos.
 
 #### Repositório 
 - 1. [Portal](https://github.com/coderzparadise)
-- 2. [DataStructure](https://github.com/coderzparadise/DataStructure)
+- 2. [Estructura Datos](https://github.com/coderzparadise/DataStructure)
 - 3. [Algorithm](https://github.com/coderzparadise/Algorithm)
 ---
 ---
